@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="C:\Users\FZB\Documents\LP MI AW\UE L315\S3\Projet_Nest.js\src\app.controller.spec.ts">
+        <testCase name="AppController root should return &quot;Hello World!&quot;" duration="15"/>
+    </file>
+    <file path="C:\Users\FZB\Documents\LP MI AW\UE L315\S3\Projet_Nest.js\src\users\users.service.spec.ts">
+        <testCase name="UserService should be defined" duration="13"/>
+        <testCase name="UserService UserService.findAll  should return an array of users" duration="14"/>
+        <testCase name="UserService UserService.findOne should return a user" duration="6"/>
+        <testCase name="UserService UserService.createUser should create a user" duration="8"/>
+        <testCase name="UserService UserService.update should update a user" duration="3"/>
+        <testCase name="UserService UserService.update should delete a user" duration="3"/>
+    </file>
+    <file path="C:\Users\FZB\Documents\LP MI AW\UE L315\S3\Projet_Nest.js\src\users\users.controller.spec.ts">
+    </file>
+</testExecutions>
